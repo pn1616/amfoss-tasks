@@ -1,0 +1,202 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.navbar {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: #333;
+    padding: 15px 20px;
+    color: white;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+}
+
+.nav-left{
+    display: flex;
+    align-items: center;
+}
+
+.logo{
+    height: 40px;
+    margin-right: 10px;
+}
+
+.shop-name{
+    font-size: 20px;
+    font-weight: bold;
+    color: #f0db4f;
+}
+
+.nav-center{
+    display: flex;
+    justify-content: center;
+    flex-grow: 1;
+}
+
+.nav-links {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    display: flex;
+}
+
+.nav-links ul{
+    list-style-type: none;
+}
+.nav-links li{
+    margin: 0 15px;
+    display: inline-block;
+}
+
+.nav-links a {
+    color: white;
+    text-decoration: none;
+    font-size: 16px;
+    transition: color 0.3s ease;
+}
+
+.nav-links a:hover{
+    color: #f0db4f;
+}
+
+.nav-right{
+    display: flex;
+    align-items: center;
+}
+
+.nav-icon{
+    margin-left: 20px;
+    position: relative;
+}
+
+.container {
+    display: flex;
+    overflow: hidden;
+}
+.product-section {
+    width: 60%;
+    margin: auto;
+    padding: 20px;
+    text-align: center;
+    background-color: white;
+}
+
+.product-section h1 {
+    font-size: 28px;
+    margin-bottom: 20px;
+    color: #333;
+}
+
+.product-grid {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr); /* 4 columns */
+    gap: 20px; /* Reduced gap */
+    justify-items: center;
+    max-width: 1200px;
+    margin: auto;
+}
+
+.product-box {
+    position: relative;
+    width: 100%;
+    max-width: 250px; 
+    height: 350px;
+    padding: 10px;
+    border-radius: 15px;
+    background-color: #ddd;
+    transition: transform 0.3s ease, background-color 0.3s ease;
+    overflow: hidden;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    cursor: pointer;
+}
+
+.product-img {
+    width: 100%; 
+    height: 150px; 
+    object-fit: cover; }
+
+.product-info {
+    text-align: center;
+    margin-top: 10px;
+    font-size: 16px;
+    font-weight: bold;
+}
+
+.product-box .product-hover {
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    height: 0;
+    background-color: rgba(0, 0, 0, 0.7);
+    color: white;
+    text-align: center;
+    font-size: 18px;
+    line-height: 2;
+    overflow: hidden;
+    transition: height 0.3s ease;
+}
+
+.product-box:hover .product-hover {
+    height: 30%; }
+
+.template {
+    display: none; 
+}
+
+.terminal {
+    width: 40%;
+    background-color: #333;
+    color: #fff;
+    padding: 20px;
+    box-sizing: border-box;
+}
+
+.terminal-window {
+    background-color: #000;
+    height: 100%;
+    padding: 10px;
+    overflow: auto;
+}
+
+.terminal-output {
+    white-space: pre-wrap;
+    word-wrap: break-word;
+}
+
+.terminal-input {
+    display: flex;
+}
+
+.prompt {
+    margin-right: 5px;
+}
+
+input[type="text"] {
+    background-color: transparent;
+    border: none;
+    color: #fff;
+    outline: none;
+    flex-grow: 1;
+}
+
+@media (max-width: 768px){
+    .nav-center {
+        display: none;
+    }
+
+    .nav-left, .nav-left {
+        flex: 1;
+        justify-content: space-between;
+    }
+
+    .nav-right{
+        justify-content: flex-end;
+    }
+    .product-grid{
+        grid-template-columns: repeat(auto-fill, minmax150px, 1fr);
+    }
+}
