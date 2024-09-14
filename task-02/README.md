@@ -6,7 +6,7 @@ Used the basic commands `ls` , `cd` to navigate the repository. With the help `t
 ## Part 2
 `git checkout` was used to change the branch to *The Light Realm*. Upon entering the light realm, found alot of vegetation. So, again with the help of `tree` and `find`, found the names of the herbs. Moonbloom and Mistveil. The holy spell became *LnnmknnlLhrsdhk* . Navigated to the KharnokTheBloodForged.py in Citadel, used `python3` command to run it in terminal. Parried and i unlocked the Dark Book. 
 
-## Part3
+## Part 3
 Switched branch using the `git checkout`.Again used the `tree` command and `cd` command to navigate to the Celestial Veil Amulet to open the chest. Unlocked the chest and obtained the Dark Book I and II. The codes are in the handbook.
 
 ## Part 4

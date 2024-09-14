@@ -19,7 +19,7 @@ I will complete the coding challenges, team projects, and learn from other devel
 
 **TASKS LIST**|**TASK NAME**|**STATUS**
 --------------|---------------|---------------
-[Introspection](https://github.com/pn1616/amfoss_tasks/blob/main/README.md#introspection)|Introspection|**Completed**
+[Introspection](https://github.com/pn1616/amfoss-tasks/blob/main/README.md)|Introspection|**Completed**
 [Task-00](https://github.com/pn1616/amfoss-tasks/tree/main/task-00)|Install Linux|**Completed**
 [Task-01](https://github.com/pn1616/amfoss-tasks/tree/main/task-01)|Type Maestro|**Completed**
 [Task-02](https://github.com/pn1616/amfoss-tasks/tree/main/task-02)|Terminal Chaos|**Completed**
@@ -29,5 +29,5 @@ I will complete the coding challenges, team projects, and learn from other devel
 [Task-06](https://github.com/pn1616/amfoss-tasks/tree/main/task-06)|OpenDocs|*Unattempted*
 [Task-07](https://github.com/pn1616/amfoss-tasks/tree/main/task-07)|Pirate's Dilemma|**Completed**
 [Task-08](https://github.com/pn1616/amfoss-tasks/tree/main/task-08)|Blog Burst|**Completed**
-[Task-09](https://github.com/pn1616/amfoss_tasks/tree/main/task-09)|HERO-DEX|*Attempted*
+[Task-09](https://github.com/pn1616/amfoss-tasks/tree/main/task-09)|HERO-DEX|*Attempted*
 [Task-10](https://github.com/pn1616/amfoss-tasks/tree/main/task-10)|Operation Pixel Merge|*Attempted*
