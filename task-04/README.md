@@ -1,1 +1,3 @@
 # Gopal and his PagePal
+
+Preping was this task included watching a dozen of youtube videos. Figured out how to use the BotFather. Created API for both the telegram bot and the google books. I did face a lot of blocks while coding and testing, but eventually figured it out. Took a long time to understand *async* functions, *MessageHandlers*, states etc. For last year tasks, I had tried to push the entire virual envirnoment to my repository but that ended with my repository not working so this time knew better than pushing all the stuff. Read my medium post on how I did this task: [blog](https://medium.com/@pavithranair1616/blog-burst-922ad0863599)

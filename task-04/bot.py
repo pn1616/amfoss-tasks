@@ -156,8 +156,6 @@ async def handle_button_press(update: Update, context: ContextTypes.DEFAULT_TYPE
             await query.edit_message_text("empty")
     return ConversationHandler.END
             
-        
-    
     
 if __name__ == '__main__':
     print("Starting bot.. ")

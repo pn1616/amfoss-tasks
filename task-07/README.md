@@ -1,1 +1,3 @@
 # Pirate's Dilemma
+
+I tried my best to understand this task, failed quite a bit. But still tried a lot. It works partially. I have no idea why the video file is not recognized. But I did check if the API was working or not, which it was. It just wont identify the mp4 file and return the subtitles. Learnt about CLIs, read the Click documentation, even made a small and simple task manager CLI to try it out. 

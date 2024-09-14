@@ -4,4 +4,4 @@ Given my familiarity with HTML, CSS, and JavaScript, I initially thought it woul
 
   
   
-[working video](https://drive.google.com/file/d/1PWO4EzlgDcSjBFHCEKTEfDsqcqUzxQi5/view?usp=sharing)
+How it looks: [working video](https://drive.google.com/file/d/1PWO4EzlgDcSjBFHCEKTEfDsqcqUzxQi5/view?usp=sharing)
