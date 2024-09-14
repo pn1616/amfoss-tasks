@@ -2,7 +2,7 @@
 ## Introspection
 
 ### *Introduction*
-Hi! I’m Pavithra Nair, currently in S3 CSE-B. Last year, I was completely new to programming, but the Praveshan'23 tasks really helped kickstart my journey into coding. Even though I didn’t get past the interview process, the whole experience was incredibly valuable, and I learned a great deal in those early days as a programmer. I'm a hard worker and genuinely passionate about programming. I love solving problems and am always excited to learn new things. My enthusiasm for coding has only grown since then, and I’m constantly pushing myself to improve and explore new technologies.
+Hi! I’m Pavithra Nair, currently in S3 CSE-B. Last year, I was completely new to programming, but the Praveshan'23 tasks really helped kickstart my journey into coding. Even though I didn’t get past the interview process, the whole experience was incredibly valuable, and I learned a great deal in those early days as a programmer. I'm a hard worker and genuinely passionate about programming. I love solving problems and am always excited to learn new things. My enthusiasm for coding has only grown since then, and I’m constantly pushing myself to improve and explore new technologies. Keeping aside the tech world, I'm a pop culture enthusiast who is chronically online.
 
 ### *Why should we choose you?*
 I believe I am very much motivated and enthusiastic about programming as well as contributing to open-source. My introduction to programming started through initiatives like CS50 and amFOSS Praveshan'23 taught me a lot. I assure active participation, volunteering, and contribution to every event and project the club undertakes. In addition to my technical curiosity, the desire to learn and grow for myself and for others in the club drives me. It motivates me to foster collaboration and share knowledge.
@@ -15,6 +15,9 @@ Main interest is in web and application development; the area has attracted me b
 In terms of web development, I see myself building responsive and scalable, visually appealing websites-giving equal emphasis to front-end as well as to back-end development. In the case of apps, I am interested in developing cross-platform applications and then development of class apps that work well on both Android and iOS.
 
 I will complete the coding challenges, team projects, and learn from other developers who can guide me on acquiring more skills. In general, the idea is to improve the skills and make the tech community better.
+
+### Thoughts on the tasks
+The tasks were more difficult than I expected but I still worked through the blockages best way I could. Definitely with a lot of googling and looking at similar projects. Even though the whole process was frustating at times, the experience was ultimately rewarding. 
 ## Tasks
 
 **TASKS LIST**|**TASK NAME**|**STATUS**
